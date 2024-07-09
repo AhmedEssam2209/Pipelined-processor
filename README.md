@@ -5,6 +5,13 @@
 <h2>Description</h2>
 Designed and implemented a 5-stage pipelined RISC processor using VHDL on modelsim, and an assembler using C++.
 
+The processor in this project has a RISC-like instruction set architecture. There are eight
+4-byte general purpose registers; R0, till R7. Another two specific registers, One works as a
+program counter (PC). The other works as a stack pointer (SP); and hence; points to the top of
+the stack. The initial value of SP is (2^12-1). The memory address space is 4 K of 16-bit
+width and is word addressable. (N.B. word = 2 bytes). The data bus between memory and the
+processor is 16-bit for instruction memory and 32-bit widths for data memory.
+
 
 <h2>Languages and Utilities Used</h2>
 
