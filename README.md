@@ -1,4 +1,4 @@
-<h1>Pipelined-processor</h1>
+ts<h1>Pipelined-processor</h1>
 
 
 
@@ -13,15 +13,15 @@ Designed and implemented a 5-stage pipelined RISC processor using VHDL on models
 
 
 
-<h2>Assembler :</h2>
+<h2>Screenshots :</h2>
 
 <p align="center">
-CRUD options: <br/>
-<img src="https://imgur.com/a/ULkt81r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assembler: <br/>
+<img src="https://imgur.com/a/ULkt81r.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 GET :  <br/>
-<img src="https://imgur.com/bjut7xC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bjut7xC.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
