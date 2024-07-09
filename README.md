@@ -17,7 +17,7 @@ Designed and implemented a 5-stage pipelined RISC processor using VHDL on models
 
 <p align="center">
 Assembler: <br/>
-<img src="https://imgur.com/a/ULkt81r.png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/8hkbcDQ.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Pipeline:  <br/>
