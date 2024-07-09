@@ -20,11 +20,11 @@ Assembler: <br/>
 <img src="https://imgur.com/8hkbcDQ.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Pipeline:  <br/>
+Pipeline (.io file in repo):  <br/>
 <img src="https://imgur.com/XwJcOSd.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Waceform on modelsim:  <br/>
+Waveform on modelsim:  <br/>
 <img src="https://imgur.com/RPwICuh.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
