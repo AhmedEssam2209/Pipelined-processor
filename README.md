@@ -24,6 +24,11 @@ Pipeline:  <br/>
 <img src="https://imgur.com/XwJcOSd.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
+Waceform on modelsim:  <br/>
+<img src="https://imgur.com/RPwICuh.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+
 
 </p>
 
